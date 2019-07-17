@@ -1,0 +1,9 @@
+2000
+2400
+3000
+2100
+
+Fondo:
+Lamina: 
+Funda:
+Tapa: 
